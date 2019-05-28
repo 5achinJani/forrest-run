@@ -1,12 +1,12 @@
 {
-  "name": "forest-run",
+  "name": "forrest-run",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "forest-run": "node index.js",
-    "start": "npm run forest-run"
+    "forrest-run": "node index.js",
+    "start": "npm run forrest-run"
   },
   "keywords": [],
   "author": "",
